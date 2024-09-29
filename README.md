@@ -1,2 +1,5 @@
-# curso_python_dio
-Projetos e desafios do curso de python da DIO.me
+# Bootcamp DIO NTT DATA
+
+## Projetos e desafios do curso de Python
+
+Desafio nº1 - nível básico
